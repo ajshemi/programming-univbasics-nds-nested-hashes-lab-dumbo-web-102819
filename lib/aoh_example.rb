@@ -12,7 +12,7 @@ def assembled_aoh()
   # Array. Ruby constants are denoted by ALL_CAPS
 end
 
-def literal_aoh
+def literal_aoh()
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
